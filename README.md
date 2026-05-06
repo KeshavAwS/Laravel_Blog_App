@@ -17,7 +17,7 @@ Database: MySQL / SQLite
 Tools: Composer, Artisan CLI
 📁 Project Structure
 
-``Bash
+```Bash
 blog-app/
 │
 ├── app/
@@ -38,37 +38,37 @@ blog-app/
 ├── .env
 ├── composer.json
 └── artisan
-``
+```
 ⚙️ Installation & Setup
 1️⃣ Clone the repository
-``Bash
+```Bash
 git clone https://github.com/KeshavAwS/Laravel_Blog_App.git
 cd Laravel_Blog_App
-``
+```
 2️⃣ Install dependencies
-``Bash
+```Bash
 composer install
-``
+```
 3️⃣ Setup environment file
-``Bash
+```Bash
 cp .env.example .env
-``
+```
 4️⃣ Generate application key
-``Bash
+```Bash
 php artisan key:generate
-``
+```
 5️⃣ Configure database
 
 Update .env file with your database credentials.
 
 6️⃣ Run migrations
-``Bash
+```Bash
 php artisan migrate
-``
+```
 7️⃣ Start development server
-``Bash
+```Bash
 php artisan serve
-``
+```
 
 👉 Open in browser: http://127.0.0.1:8000
 
