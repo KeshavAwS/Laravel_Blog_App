@@ -11,10 +11,10 @@ A simple and scalable Blog Application built using the Laravel framework. This p
 - 🎨 Blade templating engine
 - ⚡ Maintainable and scalable code
 - 🛠️ **Tech Stack**
--- **Backend**: PHP, Laravel
--- **Frontend**: Blade (HTML, CSS, JS)
--- **Database**: MySQL / SQLite
--- **Tools**: Composer, Artisan CLI
+      - **Backend**: PHP, Laravel
+      - **Frontend**: Blade (HTML, CSS, JS)
+      - **Database**: MySQL / SQLite
+      - **Tools**: Composer, Artisan CLI
 ## 📁 Project Structure
 
 ```Bash
