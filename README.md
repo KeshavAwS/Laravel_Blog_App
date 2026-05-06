@@ -3,14 +3,14 @@
 A simple and scalable Blog Application built using the Laravel framework. This project demonstrates core backend development concepts like authentication, CRUD operations, and MVC architecture in Laravel.
 
 ## 📌 Features
--📝 Create, Read, Update, Delete (CRUD) blog posts
--🔐 User Authentication (Login/Register)
--🧑‍💼 Role-based access (if implemented)
--📂 Clean MVC architecture
--🗃️ Database migrations & seeding
--🎨 Blade templating engine
--⚡ Maintainable and scalable code
--🛠️ Tech Stack
+- 📝 Create, Read, Update, Delete (CRUD) blog posts
+- 🔐 User Authentication (Login/Register)
+- 🧑‍💼 Role-based access (if implemented)
+- 📂 Clean MVC architecture
+- 🗃️ Database migrations & seeding
+- 🎨 Blade templating engine
+- ⚡ Maintainable and scalable code
+- 🛠️ **Tech Stack**
 **Backend**: PHP, Laravel
 **Frontend**: Blade (HTML, CSS, JS)
 **Database**: MySQL / SQLite
